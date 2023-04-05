@@ -1,0 +1,33 @@
+Reply to this message with the source name and all the text in the bracket is the source itself that you will use to answer questions.
+
+Source Name: Page #494. Page #494: (
+Hormonal Control of Male Development
+
+Figure 14.13 illustrates a feedback loop that maintains control of the male reproductive system and secondary sex characteristics. Gonadotropin-releasing hormone (GnRH) stimulates the anterior pituitary to release luteinizing hormone (LH) and follicle-stimulating hormone (FSH). LH causes the testes to release testosterone, which promotes changes such as muscle development and the formation of facial hair. As well, testosterone acts on the anterior pituitary to inhibit the release of LH. This feedback loop keeps the testosterone level relatively constant in the body.
+
+Reproductive function and secondary sex characteristics both depend on the continued presence of male sex hormones. Substances that interfere with the hormonal feedback system can cause changes in the reproductive system. For example, anabolic steroids mimic the action of testosterone in promoting muscle development. For this reason, some athletes illegally use steroids to increase their speed or strength. Steroids, however, also disrupt the reproductive hormone release feedback systems. The side effects of steroid use in men may include shrinking testicles, low sperm count, loss of body hair, and the development of breasts.
+
+Thought Lab: Testosterone and Male Development
+
+Blood tests of testosterone levels are sometimes used to help diagnose disorders of the male reproductive system, as well as other conditions that affect hormone balance in the body. In this activity, students are asked to plot and analyze blood testosterone data for male children and young adult males.
+
+Procedure:
+
+Examine the data in the table below. Graph these data using the type of graph you think is most appropriate.
+Based on the data, at what age does puberty begin? Mark this on your graph.
+Use print or Internet resources to research the physiological changes that take place during male puberty. Write a brief description of the changes that are associated with changing levels of testosterone. Identify which of these changes are directly related to reproductive function.
+Normal Blood Testosterone Levels in Males:
+
+Age (years): 1 to 7.9; Blood testosterone level (ng/dL): 40
+Age (years): 8 to 10.9; Blood testosterone level (ng/dL): 42
+Age (years): 11 to 11.9; Blood testosterone level (ng/dL): 260
+Age (years): 12 to 13.9; Blood testosterone level (ng/dL): 420
+Age (years): 14 to 17.9; Blood testosterone level (ng/dL): 1000
+Age (years): 18 to 29; Blood testosterone level (ng/dL): 1100
+Analysis:
+
+Is it possible to use blood hormone data to identify the end of puberty? Explain your answer.
+In young men, the growth of facial hair begins at the same time as blood testosterone levels start to increase.
+a) From this evidence, can you conclude that testosterone causes facial hair growth? Justify your answer.
+b) Design an experiment to test the hypothesis that testosterone causes facial hair growth in men.
+)

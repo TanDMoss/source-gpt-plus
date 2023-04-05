@@ -1,0 +1,25 @@
+Reply to this message with the source name and all the text in the bracket is the source itself that you will use to answer questions.
+
+Source Name: Page #493. Page #493: (
+Table 14.6 Summary of Key Reproductive Hormones and Their Functions
+
+Production	Target	Function in male	Function in female	Hormone site	organ(s) reproductive system	reproductive system
+GnRH	hypothalamus	stimulates the release of FSH and LH from the anterior pituitary	stimulates the release of FSH and LH from the anterior pituitary			
+FSH	anterior pituitary	stimulates the development of the sex organs and gamete production in ovaries and testes	stimulates the development of the sex organs and gamete production in ovaries	seminiferous tubules		
+LH	anterior pituitary	stimulates testosterone production in testes	triggers ovulation and stimulates estrogen production (with FSH) in ovaries	interstitial cells		
+Estrogen	ovary	stimulates the development of the female reproductive tract and secondary sex characteristics		entire body	minor	
+Progesterone	ovary (corpus luteum)	causes uterine thickening		uterus	minor	
+Testosterone	testes	stimulates the development of the male reproductive tract and secondary sex characteristics		entire body	minor	
+Inhibin	testes (Sertoli cells)	inhibit FSH production	inhibit FSH production	anterior pituitary and hypothalamus		
+Development and Maturation of the Male Reproductive System
+A boy’s genitalia are visible at birth, but his reproductive system will not be mature until puberty. Puberty is the period in which the reproductive system completes its development and becomes fully functional. Most boys enter puberty between 10 and 13 years of age. At puberty, a series of hormonal events lead to gradual physical changes in the body, including the final development of the sex organs and the development of secondary sex characteristics.
+
+Hormonal Regulation of the Male Reproductive System
+From the end of puberty, the male reproductive system is usually capable of producing millions of sperm every hour of the day, seven days a week until death. The same hormones that trigger the events of puberty also regulate the mature male reproductive system over a person’s lifetime. Hormone feedback mechanisms control the process of spermatogenesis and maintain the secondary sexual characteristics. The release of GnRH from the hypothalamus triggers the release of FSH and LH from the anterior pituitary. FSH causes the interstitial cells in the testes to produce sperm, while at the same time, FSH causes cells in the seminiferous tubules to release a hormone called inhibin. Inhibin acts on the anterior pituitary to inhibit the production of FSH, resulting in a negative feedback loop. As the level of FSH drops, the testes
+BiologyFile FYI
+
+LH and FSH are produced by both males and females, but they are named for their actions in the female. In the male, LH is sometimes called interstitial cell stimulating hormone (ICSH) because it controls the production of testosterone by interstitial cells. Chemically, however, LH (ICSH) in males is identical to LH in females.
+)
+
+
+
