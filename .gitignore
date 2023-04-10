@@ -37,8 +37,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .idea
-
-.env
-
-A:\GitHub\source-gpt-2.0\.env
 .env
